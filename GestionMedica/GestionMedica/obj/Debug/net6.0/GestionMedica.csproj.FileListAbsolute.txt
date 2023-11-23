@@ -1,0 +1,15 @@
+D:\c#\GestionMedica\GestionMedica\bin\Debug\net6.0\GestionMedica.exe
+D:\c#\GestionMedica\GestionMedica\bin\Debug\net6.0\GestionMedica.deps.json
+D:\c#\GestionMedica\GestionMedica\bin\Debug\net6.0\GestionMedica.runtimeconfig.json
+D:\c#\GestionMedica\GestionMedica\bin\Debug\net6.0\GestionMedica.dll
+D:\c#\GestionMedica\GestionMedica\bin\Debug\net6.0\GestionMedica.pdb
+D:\c#\GestionMedica\GestionMedica\obj\Debug\net6.0\GestionMedica.csproj.AssemblyReference.cache
+D:\c#\GestionMedica\GestionMedica\obj\Debug\net6.0\GestionMedica.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\GestionMedica\GestionMedica\obj\Debug\net6.0\GestionMedica.AssemblyInfoInputs.cache
+D:\c#\GestionMedica\GestionMedica\obj\Debug\net6.0\GestionMedica.AssemblyInfo.cs
+D:\c#\GestionMedica\GestionMedica\obj\Debug\net6.0\GestionMedica.csproj.CoreCompileInputs.cache
+D:\c#\GestionMedica\GestionMedica\obj\Debug\net6.0\GestionMedica.dll
+D:\c#\GestionMedica\GestionMedica\obj\Debug\net6.0\refint\GestionMedica.dll
+D:\c#\GestionMedica\GestionMedica\obj\Debug\net6.0\GestionMedica.pdb
+D:\c#\GestionMedica\GestionMedica\obj\Debug\net6.0\GestionMedica.genruntimeconfig.cache
+D:\c#\GestionMedica\GestionMedica\obj\Debug\net6.0\ref\GestionMedica.dll
