@@ -13,3 +13,18 @@ D:\c#\GestionMedica\GestionMedica\obj\Debug\net6.0\refint\GestionMedica.dll
 D:\c#\GestionMedica\GestionMedica\obj\Debug\net6.0\GestionMedica.pdb
 D:\c#\GestionMedica\GestionMedica\obj\Debug\net6.0\GestionMedica.genruntimeconfig.cache
 D:\c#\GestionMedica\GestionMedica\obj\Debug\net6.0\ref\GestionMedica.dll
+D:\Usuarios\Escritorio\UTN\3er Cuatrimestre\Programacion III\Modelos de parcial\GestiónMedica\GestionMedica\GestionMedica\bin\Debug\net6.0\GestionMedica.exe
+D:\Usuarios\Escritorio\UTN\3er Cuatrimestre\Programacion III\Modelos de parcial\GestiónMedica\GestionMedica\GestionMedica\bin\Debug\net6.0\GestionMedica.deps.json
+D:\Usuarios\Escritorio\UTN\3er Cuatrimestre\Programacion III\Modelos de parcial\GestiónMedica\GestionMedica\GestionMedica\bin\Debug\net6.0\GestionMedica.runtimeconfig.json
+D:\Usuarios\Escritorio\UTN\3er Cuatrimestre\Programacion III\Modelos de parcial\GestiónMedica\GestionMedica\GestionMedica\bin\Debug\net6.0\GestionMedica.dll
+D:\Usuarios\Escritorio\UTN\3er Cuatrimestre\Programacion III\Modelos de parcial\GestiónMedica\GestionMedica\GestionMedica\bin\Debug\net6.0\GestionMedica.pdb
+D:\Usuarios\Escritorio\UTN\3er Cuatrimestre\Programacion III\Modelos de parcial\GestiónMedica\GestionMedica\GestionMedica\obj\Debug\net6.0\GestionMedica.csproj.AssemblyReference.cache
+D:\Usuarios\Escritorio\UTN\3er Cuatrimestre\Programacion III\Modelos de parcial\GestiónMedica\GestionMedica\GestionMedica\obj\Debug\net6.0\GestionMedica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Escritorio\UTN\3er Cuatrimestre\Programacion III\Modelos de parcial\GestiónMedica\GestionMedica\GestionMedica\obj\Debug\net6.0\GestionMedica.AssemblyInfoInputs.cache
+D:\Usuarios\Escritorio\UTN\3er Cuatrimestre\Programacion III\Modelos de parcial\GestiónMedica\GestionMedica\GestionMedica\obj\Debug\net6.0\GestionMedica.AssemblyInfo.cs
+D:\Usuarios\Escritorio\UTN\3er Cuatrimestre\Programacion III\Modelos de parcial\GestiónMedica\GestionMedica\GestionMedica\obj\Debug\net6.0\GestionMedica.csproj.CoreCompileInputs.cache
+D:\Usuarios\Escritorio\UTN\3er Cuatrimestre\Programacion III\Modelos de parcial\GestiónMedica\GestionMedica\GestionMedica\obj\Debug\net6.0\GestionMedica.dll
+D:\Usuarios\Escritorio\UTN\3er Cuatrimestre\Programacion III\Modelos de parcial\GestiónMedica\GestionMedica\GestionMedica\obj\Debug\net6.0\refint\GestionMedica.dll
+D:\Usuarios\Escritorio\UTN\3er Cuatrimestre\Programacion III\Modelos de parcial\GestiónMedica\GestionMedica\GestionMedica\obj\Debug\net6.0\GestionMedica.pdb
+D:\Usuarios\Escritorio\UTN\3er Cuatrimestre\Programacion III\Modelos de parcial\GestiónMedica\GestionMedica\GestionMedica\obj\Debug\net6.0\GestionMedica.genruntimeconfig.cache
+D:\Usuarios\Escritorio\UTN\3er Cuatrimestre\Programacion III\Modelos de parcial\GestiónMedica\GestionMedica\GestionMedica\obj\Debug\net6.0\ref\GestionMedica.dll

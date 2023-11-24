@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#\\GestionMedica\\GestionMedica\\GestionMedica.csproj",
+      "projectUniqueName": "D:\\Usuarios\\Escritorio\\UTN\\3er Cuatrimestre\\Programacion III\\Modelos de parcial\\GestiónMedica\\GestionMedica\\GestionMedica\\GestionMedica.csproj",
       "projectName": "GestionMedica",
-      "projectPath": "D:\\c#\\GestionMedica\\GestionMedica\\GestionMedica.csproj",
+      "projectPath": "D:\\Usuarios\\Escritorio\\UTN\\3er Cuatrimestre\\Programacion III\\Modelos de parcial\\GestiónMedica\\GestionMedica\\GestionMedica\\GestionMedica.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "D:\\c#\\GestionMedica\\GestionMedica\\obj\\",
+      "outputPath": "D:\\Usuarios\\Escritorio\\UTN\\3er Cuatrimestre\\Programacion III\\Modelos de parcial\\GestiónMedica\\GestionMedica\\GestionMedica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
